@@ -1,10 +1,11 @@
 <h1 align="center">Hacktoberfest 2021</h1>
 <p align="center">
-    <a href="https://github.com/digitalocean/hacktoberfest/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/AkshayNachappa/Hacktoberfest_2021"></a>
-    <a href="https://github.com/digitalocean/hacktoberfest/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/AkshayNachappa/Hacktoberfest_2021"></a>
-    <a href="https://github.com/digitalocean/hacktoberfest/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AkshayNachappa/Hacktoberfest_2021"></a>
-    <a href="#"><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AkshayNachappa/Hacktoberfest_2021"></a>
-    <a href="https://github.com/digitalocean/hacktoberfest/search?l=ruby"><img alt="GitHub top language"src="https://img.shields.io/github/languages/top/AkshayNachappa/Hacktoberfest_2021"></a>
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/AkshayNachappa/Hacktoberfest_2021">
+    <img alt="GitHub stars" src="https://img.shields.io/github/issues-pr/AkshayNachappa/hacktoberfest_2021?color=blue">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/AkshayNachappa/Hacktoberfest_2021">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/AkshayNachappa/Hacktoberfest_2021">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AkshayNachappa/Hacktoberfest_2021">
+    <img alt="GitHub top language"src="https://img.shields.io/github/languages/top/AkshayNachappa/Hacktoberfest_2021"></a>
     <br>
     
 </p>
