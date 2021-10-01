@@ -2,7 +2,7 @@
 
 ## Please Add your Name here
 
-These are the listing of individuals to this project **who've finished five problems**.
+These are the listing of individuals to this project **who've succesfully contributed**.
 
 - **Note: Make these modifications along with your PR **
 > ## How to edit it
