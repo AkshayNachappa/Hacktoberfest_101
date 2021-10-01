@@ -32,11 +32,6 @@ In your local repository, run script/setup, move to the folder of the root direc
 cd Hacktoberfest_2021/YOUR_CODE_LANGUAGE 
 ```
 
-Create a folder named your GITHUB_USERNAME
-```
-mkdir YOUR_USERNAME
-```
-
 Start Adding your solved problems files or DSA codes or anything useful into the directory.
 
 Make a Commit to the added files
