@@ -4,7 +4,7 @@
 
 These are the listing of individuals to this project **who've succesfully contributed**.
 
-- **Note: Make these modifications along with your PR **
+- **Note: Make these modifications along with your PR**
 > ## How to edit it
 >
 > - Replace picture together along with your github picture via way of means of copying the picture link
