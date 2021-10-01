@@ -55,7 +55,7 @@ Now go to the Github Website and switch to the forked repository.
 
 Click on preview and make pull request. A pull request is being made to the original Repository.
 
-Once the Pull Request is made we will verify your solutions and merge the Pull Requests. With this you make your first valid pull Request.
+Once the Pull Request is made we will verify your solutions and merge the Pull Requests. With this you make your first valid pull Request. Don't forget to add your details in <code>CONTRIBUTING.md</code> to get featured!
 
 Wahoo!!!....
 
