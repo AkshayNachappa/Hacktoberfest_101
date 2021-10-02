@@ -18,6 +18,7 @@ These are the listing of individuals to this project **who've succesfully contri
 
 # Main Contributors
 
+> <img src="https://avatars.githubusercontent.com/u/42502005?v=4" width="50"> [Azim Pathan](https://github.com/AzimPathan)
 
 > <img src="https://avatars.githubusercontent.com/u/46316452?v=4" width="50"> [Akshay Nachappa](https://github.com/AkshayNachappa)
 
