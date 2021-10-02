@@ -36,3 +36,5 @@ These are the listing of individuals to this project **who've succesfully contri
 > <img src="https://avatars.githubusercontent.com/u/91365389?v=4" width="50"> [Osh](https://github.com/osh2002)
 
 > <img src="https://avatars.githubusercontent.com/u/49654230?v=4" width="50"> [Varsha M](https://github.com/varshamanjunath)
+
+> <img src="https://avatars.githubusercontent.com/u/73700330?v=4" width="50"> [Aayushmaan Rawat](https://github.com/Aayushmaan-Rawat)
