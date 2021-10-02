@@ -23,11 +23,11 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src="https://avatars.githubusercontent.com/u/53044933?v=4" width="50"> [Anurag](https://github.com/Anurag582)
 
-> <img src="https://avatars.githubusercontent.com/u/46316452?v=4" width="50"> [Sriharshitha Deepala](https://github.com/Sriharshitha842)
+> <img src="https://avatars.githubusercontent.com/u/66819169?v=4" width="50"> [Sriharshitha Deepala](https://github.com/Sriharshitha842)
 
 > <img src="https://avatars.githubusercontent.com/u/38998978?v=4" width="50"> [Samodara](https://github.com/saamodra)
 
-> <img src="https://avatars.githubusercontent.com/u/46316452?v=4" width="50"> [Manu M B](https://github.com/mbmanu)
+> <img src="https://avatars.githubusercontent.com/u/47355913?v=4" width="50"> [Manu M B](https://github.com/mbmanu)
 
 > <img src="https://avatars.githubusercontent.com/u/60711601?v=4" width="50"> [Pradhumna Banerji](https://github.com/pradhumna22)
 
