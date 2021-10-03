@@ -21,3 +21,5 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src="https://avatars.githubusercontent.com/u/46316452?v=4" width="50"> [Akshay Nachappa](https://github.com/AkshayNachappa)
 
+> <img src="https://avatars.githubusercontent.com/u/66819169?v=4" width="50"> [Sriharshitha Deepala](https://github.com/Sriharshitha842)
+
