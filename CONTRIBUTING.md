@@ -40,3 +40,6 @@ These are the listing of individuals to this project **who've succesfully contri
 > <img src="https://avatars.githubusercontent.com/u/73700330?v=4" width="50"> [Aayushmaan Rawat](https://github.com/Aayushmaan-Rawat)
 
 > <img src="https://avatars.githubusercontent.com/u/46783195?v=4" width="50"> [Devanshu Vashishtha](https://github.com/web-codegrammer)
+
+> <img src="https://avatars.githubusercontent.com/u/72291921?v=4" width="50"> [Rishav Dutta](https://github.com/Rishav-00)
+
