@@ -28,7 +28,9 @@ int main()
         cin>>arr[i];
     }
     search(arr,N,x);
-
+    
+    delete[] arr;       // To delete dynamically allocated memory for the array arr
+    
     return 0;
 
 }
