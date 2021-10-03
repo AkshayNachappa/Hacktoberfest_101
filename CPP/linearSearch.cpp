@@ -3,7 +3,7 @@ using namespace std;
 
 void search(int a[],int N, int n)
 {
-    int count;
+    int count=0;
     
     for(int i=0;i<N;i++)
     {
@@ -28,7 +28,9 @@ int main()
         cin>>arr[i];
     }
     search(arr,N,x);
-
+    
+    delete[] arr;       // To delete dynamically allocated memory for the array arr
+    
     return 0;
 
 }
