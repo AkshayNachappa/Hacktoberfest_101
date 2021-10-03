@@ -43,4 +43,6 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src="https://avatars.githubusercontent.com/u/70372650?v=4" width="50"> [ Anshu-1101](https://github.com/Anshu-1101)
 
+> <img src="https://avatars.githubusercontent.com/u/64854191?v=4" width="50"> [ Raya513 ](https://github.com/Raya513)
+
 
