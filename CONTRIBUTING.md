@@ -1,7 +1,6 @@
 # CONTRIBUTORS
 
 ## Please Add your Name here
-
 These are the listing of individuals to this project **who've succesfully contributed**.
 
 - **Note: Make these modifications along with your PR**
@@ -39,10 +38,17 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src="https://avatars.githubusercontent.com/u/73700330?v=4" width="50"> [Aayushmaan Rawat](https://github.com/Aayushmaan-Rawat)
 
+> <img src="https://avatars.githubusercontent.com/u/46783195?v=4" width="50"> [Devanshu Vashishtha](https://github.com/web-codegrammer)
+
 > <img src="https://avatars.githubusercontent.com/u/72291921?v=4" width="50"> [Rishav Dutta](https://github.com/Rishav-00)
 
 > <img src="https://avatars.githubusercontent.com/u/70372650?v=4" width="50"> [ Anshu-1101](https://github.com/Anshu-1101)
 
-> <img src="https://avatars.githubusercontent.com/u/78473864?s=400&u=3ea7190a0137a366f0f2913303790db434daeb6c&v=4" width="50"> [RituRanii](https://github.com/RituRanii)
+> <img src="https://avatars.githubusercontent.com/u/78473864?v=4" width="50"> [RituRanii](https://github.com/RituRanii)
+
+> <img src="https://avatars.githubusercontent.com/u/74525913?v=4" width="50"> [Yash Aggarwal](https://github.com/yashaggarwal0722)
+
+> <img src="https://avatars.githubusercontent.com/u/64854191?v=4" width="50"> [ Raya513 ](https://github.com/Raya513)
+
 
 
