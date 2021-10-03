@@ -50,5 +50,5 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src="https://avatars.githubusercontent.com/u/64854191?v=4" width="50"> [ Raya513 ](https://github.com/Raya513)
 
-
+> <img src="https://avatars.githubusercontent.com/u/78153372?v=4" width="50"> [ Aditya Azad ](https://github.com/adityaazad79)
 
