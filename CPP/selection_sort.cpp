@@ -39,6 +39,6 @@ int main()
 {
 
     vector<int>arr={5,3,4,2,1};
-    bubbleSort(arr);
+    selectionSort(arr);
     return 0;
 }
