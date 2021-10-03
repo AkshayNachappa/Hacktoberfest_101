@@ -3,7 +3,7 @@ using namespace std;
 
 void search(int a[],int N, int n)
 {
-    int count;
+    int count=0;
     
     for(int i=0;i<N;i++)
     {
