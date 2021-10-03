@@ -1,7 +1,7 @@
 # CONTRIBUTORS
 
 ## Please Add your Name here
-
+> <img src="https://avatars.githubusercontent.com/u/74525913?v=4" width="50"> [Yash Aggarwal](https://github.com/yashaggarwal0722)
 These are the listing of individuals to this project **who've succesfully contributed**.
 
 - **Note: Make these modifications along with your PR**
