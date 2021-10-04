@@ -56,4 +56,4 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src="https://avatars.githubusercontent.com/u/78153372?v=4" width="50"> [ Aditya Azad ](https://github.com/adityaazad79)
 
-
+> <img src="https://avatars.githubusercontent.com/u/77494972?v=4" width="50"> [shubham Kumar](https://github.com/shubhkasyap)
