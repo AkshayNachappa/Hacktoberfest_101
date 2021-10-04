@@ -3,7 +3,7 @@
  WINNING RULES :
     1. ROCK VS PAPER ----> PAPER WINS
     2. ROCK VS SCISSOR ----> ROCK WINS
-    3. SCISSOR VS PAPER ----> PAPER WINS'''
+    3. SCISSOR VS PAPER ----> SCISSOR WINS'''
 
 #importing random module
 import random
