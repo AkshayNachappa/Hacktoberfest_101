@@ -1,3 +1,4 @@
+// Code for Student Grading system
 #include<stdio.h>
 #define N 5
 struct student
