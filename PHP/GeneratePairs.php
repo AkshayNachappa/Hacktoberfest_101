@@ -10,4 +10,7 @@ function generatePairs(int $m, int $n): array {
   return $arr;
 }
 
+echo "<pre>";
+var_dump(generatePairs(2,4));
+
 ?>
