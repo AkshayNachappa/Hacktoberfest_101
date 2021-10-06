@@ -17,8 +17,6 @@ These are the listing of individuals to this project **who've succesfully contri
 
 # Main Contributors
 
-> <img src = "https://avatars.githubusercontent.com/gouravchawla" width="50"> [Gourav Chawla](https://github.com/gouravchawla)
-
 > <img src="https://avatars.githubusercontent.com/u/46316452?v=4" width="50"> [Akshay Nachappa](https://github.com/AkshayNachappa)
 
 > <img src="https://avatars.githubusercontent.com/u/53044933?v=4" width="50"> [Anurag](https://github.com/Anurag582)
@@ -58,3 +56,5 @@ These are the listing of individuals to this project **who've succesfully contri
 > <img src="https://avatars.githubusercontent.com/u/78153372?v=4" width="50"> [ Aditya Azad ](https://github.com/adityaazad79)
 
 > <img src="https://avatars.githubusercontent.com/u/77494972?v=4" width="50"> [shubham Kumar](https://github.com/shubhkasyap)
+
+> <img src = "https://avatars.githubusercontent.com/gouravchawla" width="50"> [Gourav Chawla](https://github.com/gouravchawla)
