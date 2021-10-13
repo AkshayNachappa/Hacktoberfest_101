@@ -3,13 +3,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void inti_code() {
-#ifndef ONLINE_JUDGE
-	freopen("../input.txt", "r", stdin);
-	freopen("../output.txt", "w", stdout);
-#endif
-}
-
 void threeWayPartition(vector<int> &arr, int a, int b)
 {
 	int low = 0, mid = 0, high = arr.size() - 1;
@@ -30,8 +23,6 @@ void threeWayPartition(vector<int> &arr, int a, int b)
 }
 
 int main() {
-	inti_code();
-
 	int n; cin >> n;
 
 	int a, b;
