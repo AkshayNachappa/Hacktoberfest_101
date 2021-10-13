@@ -3,13 +3,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void intiCode() {
-#ifndef ONLINE_JUDGE
-	freopen("../input.txt", "r", stdin);
-	freopen("../output.txt", "w", stdout);
-#endif
-}
-
 void nextPermutation(vector<int>& nums) {
 	if (nums.size() <= 1) return;
 
@@ -27,8 +20,6 @@ void nextPermutation(vector<int>& nums) {
 }
 
 int main() {
-	intiCode();
-
 	int n; cin >> n;
 
 	vector<int> nums;
