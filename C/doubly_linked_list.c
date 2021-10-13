@@ -62,7 +62,3 @@ void deletebeg()
   FIRST->lptr=NULL
  }
 }
-
-
-
-
