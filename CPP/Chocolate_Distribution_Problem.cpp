@@ -3,13 +3,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void inti_code() {
-#ifndef ONLINE_JUDGE
-	freopen("../input.txt", "r", stdin);
-	freopen("../output.txt", "w", stdout);
-#endif
-}
-
 long long findMinDiff(vector<long long> a, long long n, long long m) {
 	sort(a.begin(), a.end());
 
@@ -24,8 +17,7 @@ long long findMinDiff(vector<long long> a, long long n, long long m) {
 }
 
 int main() {
-	inti_code();
-
+	
 	int n; cin >> n;
 
 	int m; cin >> m;
