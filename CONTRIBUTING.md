@@ -60,3 +60,5 @@ These are the listing of individuals to this project **who've succesfully contri
 > <img src = "https://avatars.githubusercontent.com/gouravchawla" width="50"> [Gourav Chawla](https://github.com/gouravchawla)
 
 > <img src = "https://avatars.githubusercontent.com/lalithyamanasapatri" width="50"> [Lalithya Manasa Patri](https://github.com/lalithyamanasapatri)
+
+> <img src = "https://avatars.githubusercontent.com/u/60313276?s=400&v=4" width="50"> [Rohit Kanojiya](https://github.com/Rohit01-pro)
