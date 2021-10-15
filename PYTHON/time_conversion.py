@@ -4,7 +4,7 @@ def timeConversion(s):
     if "PM" in s:
         r = h + 12
         if r == 24:
-            return str(0) + str(0) + t
+            return str(1) + str(2) + t
         else:
             return str(r) + t
 
