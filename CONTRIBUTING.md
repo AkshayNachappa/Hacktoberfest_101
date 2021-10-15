@@ -62,3 +62,8 @@ These are the listing of individuals to this project **who've succesfully contri
 > <img src = "https://avatars.githubusercontent.com/lalithyamanasapatri" width="50"> [Lalithya Manasa Patri](https://github.com/lalithyamanasapatri)
 
 > <img src = "https://avatars.githubusercontent.com/u/60313276?s=400&v=4" width="50"> [Rohit Kanojiya](https://github.com/Rohit01-pro)
+
+> <img src="https://avatars.githubusercontent.com/u/61052483?s=40&v=4" width="50"> [Priyanshu Sharma](https://github.com/priyanshu0056)
+
+> <img src = "https://avatars.githubusercontent.com/u/58140782?v=4" width="50"> [Meghana Reddy](https://github.com/Meghana-Red)
+
