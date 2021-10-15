@@ -10,7 +10,7 @@ These are the listing of individuals to this project **who've succesfully contri
     `> <img src="github image link" width="50"> `
 > - Then upload your name & hyperlink of your Profile in given layout in subsequent line
     `[Name](https://github.com/UserName)`
-> - Final Code `> <img src="https://avatars.githubusercontent.com/u/61052483?s=40&v=4" width="50"> [Priyanshu Sharma](https://github.com/priyanshu0056)`
+> - Final Code `> <img src="github image link" width="50"> [Name](https://github.com/UserName)`
 > - While making pull request point out your name in it.
 >
 > #### NOTE: Before making PR ensure to test if the whole lot is adequate in preview section
@@ -60,3 +60,5 @@ These are the listing of individuals to this project **who've succesfully contri
 > <img src = "https://avatars.githubusercontent.com/gouravchawla" width="50"> [Gourav Chawla](https://github.com/gouravchawla)
 
 > <img src = "https://avatars.githubusercontent.com/lalithyamanasapatri" width="50"> [Lalithya Manasa Patri](https://github.com/lalithyamanasapatri)
+
+> <img src="https://avatars.githubusercontent.com/u/61052483?s=40&v=4" width="50"> [Priyanshu Sharma](https://github.com/priyanshu0056)
