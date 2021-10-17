@@ -44,11 +44,14 @@ int greater(char c1,char c2)
 int main() 
 {  
     int ps=0,cs=0,temp;
-    char plc,cc;
+    char plc,cc,choice;
     char dict[]={'r','p','s'};
     printf("Welcome to (ROCK,PAPER,SCISSOR) game.\n");
-    for (int i = 0; i < 3; i++)
+    flag:
+    int i=1;
+    while(1)
     {
+        i++;
         printf("Player's Turn:\n");
         printf("Choose (1 for Rock(r) , 2 for Paper(p) , 3 for Scissors(s)):");
         scanf("%d",&temp);
@@ -71,6 +74,19 @@ int main()
         else
         {
             ps+=1;
+        }
+        if(i>3)
+        {
+            printf("Do you want to continue?(Y/N): ");
+            scanf("%c",choice);
+            if(choice=='Y')
+            {
+                goto flag;
+            }
+            else
+            {
+                break;
+            }
         }
     }
     printf("\n******Results******\n");
