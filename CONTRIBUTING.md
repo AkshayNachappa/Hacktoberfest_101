@@ -65,3 +65,5 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src = "https://avatars.githubusercontent.com/u/58140782?v=4" width="50"> [Meghana Reddy](https://github.com/Meghana-Red)
 
+> <img src = "https://avatars.githubusercontent.com/u/92089083?s=400&v=4" width="50"> [Harshit Garg](https://github.com/Harshit-2473)
+
