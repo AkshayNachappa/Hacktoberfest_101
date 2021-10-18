@@ -18,8 +18,6 @@ These are the listing of individuals to this project **who've succesfully contri
 
 # Main Contributors
 
-> <img src="https://avatars.githubusercontent.com/u/42502005?v=4" width="50"> [Azim Pathan](https://github.com/AzimPathan)
-
 > <img src="https://avatars.githubusercontent.com/u/46316452?v=4" width="50"> [Akshay Nachappa](https://github.com/AkshayNachappa)
 
 > <img src="https://avatars.githubusercontent.com/u/53044933?v=4" width="50"> [Anurag](https://github.com/Anurag582)
@@ -37,3 +35,5 @@ These are the listing of individuals to this project **who've succesfully contri
 > <img src="https://avatars.githubusercontent.com/u/91365389?v=4" width="50"> [Osh](https://github.com/osh2002)
 
 > <img src="https://avatars.githubusercontent.com/u/49654230?v=4" width="50"> [Varsha M](https://github.com/varshamanjunath)
+
+> <img src="https://avatars.githubusercontent.com/u/42502005?v=4" width="50"> [Azim Pathan](https://github.com/AzimPathan)
