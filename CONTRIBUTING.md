@@ -65,3 +65,4 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src = "https://avatars.githubusercontent.com/u/58140782?v=4" width="50"> [Meghana Reddy](https://github.com/Meghana-Red)
 
+> <img src = "https://avatars.githubusercontent.com/u/91251535?v=4" width="50"> [Vividh Pandey](https://github.com/VividhPandey003)
