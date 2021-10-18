@@ -12,7 +12,7 @@ void main()
   printf("Area of Square: %d\n",(*S)(r));
   int(*R)(int ,int);
   R=area;
-  printf("Enter length and Breath of Rectangle:");
+  printf("Enter length and Width of Rectangle:");
   scanf("%d %d",&l,&b);
   printf("Area of Rectangle: %d",(*R)(l,b));
   getch();
