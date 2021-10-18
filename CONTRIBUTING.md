@@ -1,7 +1,6 @@
 # CONTRIBUTORS
 
 ## Please Add your Name here
-
 These are the listing of individuals to this project **who've succesfully contributed**.
 
 - **Note: Make these modifications along with your PR**
@@ -37,3 +36,40 @@ These are the listing of individuals to this project **who've succesfully contri
 > <img src="https://avatars.githubusercontent.com/u/49654230?v=4" width="50"> [Varsha M](https://github.com/varshamanjunath)
 
 > <img src="https://avatars.githubusercontent.com/u/42502005?v=4" width="50"> [Azim Pathan](https://github.com/AzimPathan)
+
+> <img src="https://avatars.githubusercontent.com/u/73700330?v=4" width="50"> [Aayushmaan Rawat](https://github.com/Aayushmaan-Rawat)
+
+> <img src="https://avatars.githubusercontent.com/u/46783195?v=4" width="50"> [Devanshu Vashishtha](https://github.com/web-codegrammer)
+
+> <img src="https://avatars.githubusercontent.com/u/39965391?s=40&v=4" width="50"> [VIBHUTI SINGH](https://github.com/VibhuRajput)
+
+> <img src="https://avatars.githubusercontent.com/u/72291921?v=4" width="50"> [Rishav Dutta](https://github.com/Rishav-00)
+
+> <img src="https://avatars.githubusercontent.com/u/70372650?v=4" width="50"> [ Anshu-1101](https://github.com/Anshu-1101)
+
+> <img src="https://avatars.githubusercontent.com/u/78473864?v=4" width="50"> [RituRanii](https://github.com/RituRanii)
+
+> <img src="https://avatars.githubusercontent.com/u/74525913?v=4" width="50"> [Yash Aggarwal](https://github.com/yashaggarwal0722)
+
+> <img src="https://avatars.githubusercontent.com/u/64854191?v=4" width="50"> [ Raya513 ](https://github.com/Raya513)
+
+> <img src="https://avatars.githubusercontent.com/u/75237016?v=4" width="50"> [ Ashlesha01 ](https://github.com/Ashlesha01)
+
+> <img src="https://avatars.githubusercontent.com/u/78153372?v=4" width="50"> [ Aditya Azad ](https://github.com/adityaazad79)
+
+> <img src="https://avatars.githubusercontent.com/u/77494972?v=4" width="50"> [shubham Kumar](https://github.com/shubhkasyap)
+
+> <img src = "https://avatars.githubusercontent.com/gouravchawla" width="50"> [Gourav Chawla](https://github.com/gouravchawla)
+
+> <img src = "https://avatars.githubusercontent.com/lalithyamanasapatri" width="50"> [Lalithya Manasa Patri](https://github.com/lalithyamanasapatri)
+
+> <img src="https://avatars.githubusercontent.com/u/61052483?s=40&v=4" width="50"> [Priyanshu Sharma](https://github.com/priyanshu0056)
+
+> <img src = "https://avatars.githubusercontent.com/u/58140782?v=4" width="50"> [Meghana Reddy](https://github.com/Meghana-Red)
+
+> <img src = "https://avatars.githubusercontent.com/u/92089083?s=400&v=4" width="50"> [Harshit Garg](https://github.com/Harshit-2473)
+
+> <img src = "https://avatars.githubusercontent.com/u/85837763?v=4" width="50"> [Soumyadip Ghosh](https://github.com/SoumyadipGhosh23)
+
+> <img src = "https://avatars.githubusercontent.com/u/91251535?v=4" width="50"> [Vividh Pandey](https://github.com/VividhPandey003)
+

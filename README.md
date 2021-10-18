@@ -1,11 +1,11 @@
 <h1 align="center">Hacktoberfest 2021</h1>
 <p align="center">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/AkshayNachappa/Hacktoberfest_2021">
-    <img alt="GitHub stars" src="https://img.shields.io/github/issues-pr/AkshayNachappa/hacktoberfest_2021?color=blue">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/AkshayNachappa/Hacktoberfest_2021">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/AkshayNachappa/Hacktoberfest_2021">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AkshayNachappa/Hacktoberfest_2021">
-    <img alt="GitHub top language"src="https://img.shields.io/github/languages/top/AkshayNachappa/Hacktoberfest_2021"></a>
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/AkshayNachappa/Hacktoberfest_2021?color=yellow">
+    <img alt="GitHub open pr" src="https://img.shields.io/github/issues-pr/AkshayNachappa/hacktoberfest_2021?color=blue">
+    <img alt="GitHub closed pr" src="https://img.shields.io/github/issues-pr-closed/AkshayNachappa/Hacktoberfest_2021?color=orange">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/AkshayNachappa/Hacktoberfest_2021?color=green">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AkshayNachappa/Hacktoberfest_2021?color=white">
+    <img alt="GitHub top language"src="https://img.shields.io/github/languages/top/AkshayNachappa/Hacktoberfest_2021?color=brown"></a>
     <br>
     
 </p>
