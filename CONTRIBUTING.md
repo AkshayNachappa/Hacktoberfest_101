@@ -67,3 +67,8 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src = "https://avatars.githubusercontent.com/u/92089083?s=400&v=4" width="50"> [Harshit Garg](https://github.com/Harshit-2473)
 
+> <img src = "https://avatars.githubusercontent.com/u/85837763?v=4" width="50"> [Soumyadip Ghosh](https://github.com/SoumyadipGhosh23)
+
+> <img src = "https://avatars.githubusercontent.com/u/91251535?v=4" width="50"> [Vividh Pandey](https://github.com/VividhPandey003)
+
+
