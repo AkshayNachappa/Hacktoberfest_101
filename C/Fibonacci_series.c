@@ -2,7 +2,7 @@
 int main()
 {
     int a,b,i,n,result,res=0;
-    printf("Enter the number till which you want to find fibonacci series:");
+    printf("Enter the numbers till which you want to find the fibonacci series:");
     scanf("%d",&n);
 
     a=0;
