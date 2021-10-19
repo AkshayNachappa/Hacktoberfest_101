@@ -1,35 +1,19 @@
 #include<stdio.h>
+#include<math.h>
 int main()
 {
-    int number,count=0,result=0,mul=1,cnt,rem;
-    printf("Enter any number:");
-        scanf("%d", &number);
-
-    int q=number;
-    while (q!=0){   
-        q=q/10;
-        count++;
-    }
-    cnt=count;
-    q=number;
-    while(q!=0){
-        rem=q%10;
-        while(cnt!=0){
-            mul=mul*rem;
-            cnt--;
-        }
-    result=result+mul;
-    cnt=count;
-    q=q/10;
-    mul=1;
-}
-    if(result==number)
-    {
-        printf("%d is a Armstrong number",number);
-    }
-    else
-    {
-        printf("%d is nnot a Armstrong number",number);
-    }
-return 0;
+	int i,m=0,sum=0,n;
+	printf("enter no.");
+	scanf("%d",&n);
+	m=n;
+	while(m!=0)
+	{
+		int a=m%10;
+		sum=sum+pow(a,3);
+		m=m/10;
+	}
+	if(sum==n)
+	printf("armstrong no.");
+	else
+	printf("not a armstrong no.");
 }
