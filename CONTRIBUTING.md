@@ -73,5 +73,8 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src = "https://avatars.githubusercontent.com/u/91251535?v=4" width="50"> [Vividh Pandey](https://github.com/VividhPandey003)
 
-> <img src="https://avatars.githubusercontent.com/u/57205074?s=400&u=2c90d73b8a79fde6b8919eb91b8f3a9d9025f456&v=4" width="50">[Daksh Lakhotiya](https://github.com/daksh890)
 > <img src="https://avatars.githubusercontent.com/u/57205074?s=400&u=2c90d73b8a79fde6b8919eb91b8f3a9d9025f456&v=4" width="50">[Kanishka Srivastava](https://github.com/kanishkasrivastava)
+
+> <img src = "https://avatars.githubusercontent.com/u/61052483?s=40&v=4" width="50"> [Sanju2](https://github.com/sanju2)
+
+> <img src="https://avatars.githubusercontent.com/u/57205074?s=40&v=4" width="50">[Daksh Lakhotiya](https://github.com/daksh890)
