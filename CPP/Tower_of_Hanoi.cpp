@@ -1,21 +1,14 @@
-#include <iostream>
-using namespace std;
-
-void ToH(int n, char A, char B, char C)
+#include<stdio.h>
+void TOH(int n, int A, int B, int C)
 {
-    if (n == 1)
-    {
-        cout<<"Move 1 from " <<  A << " to " << C << endl;
-        return;
+  if (n>0) 
+   {
+      TOH(n-1, A, C, B);
+      printf("(%d, %d)\n",A, C);
+      TOH(n-1, B, A, C);
     }
-    ToH(n-1, A, C, B);
-    cout<<"Move " << n << " from " <<  A << " to " << C << endl;
-    ToH(n-1, B, A, C);
-}
-
-int main()
+ }
+int main() 
 {
-	int n = 3;
-    ToH(n, 'A', 'B', 'C');
-	return 0;
+ TOH(4, 1,2,3);
 }
