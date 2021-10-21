@@ -32,6 +32,10 @@ def csvtodict(csvfile):
     #/- returning the final list of dictionaries for further use in-program
     return mainlist
 
+#/- to run this script, uncomment and run
+# csvtodict("csvfile.csv")
+#/- where 'csvfile.csv' is the name of the csv you would like
+#/- to see as a python dictionary // JSON Object.
 
 '''
 script by Aaditya Rengarajan for Hacktoberfest 2021, timestamp : 16:51:39IST October 21 2021
