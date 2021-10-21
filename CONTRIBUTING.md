@@ -61,6 +61,8 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src = "https://avatars.githubusercontent.com/gouravchawla" width="50"> [Gourav Chawla](https://github.com/gouravchawla)
 
+> <img src="https://avatars.githubusercontent.com/u/54243892?v=4" width="50">[Aaditya Rengarajan](https://github.com/aadityarengarajan)
+
 > <img src = "https://avatars.githubusercontent.com/lalithyamanasapatri" width="50"> [Lalithya Manasa Patri](https://github.com/lalithyamanasapatri)
 
 > <img src="https://avatars.githubusercontent.com/u/61052483?s=40&v=4" width="50"> [Priyanshu Sharma](https://github.com/priyanshu0056)
@@ -73,3 +75,10 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src = "https://avatars.githubusercontent.com/u/91251535?v=4" width="50"> [Vividh Pandey](https://github.com/VividhPandey003)
 
+> <img src="https://avatars.githubusercontent.com/u/57205074?s=400&u=2c90d73b8a79fde6b8919eb91b8f3a9d9025f456&v=4" width="50">[Kanishka Srivastava](https://github.com/kanishkasrivastava)
+
+> <img src = "https://avatars.githubusercontent.com/u/61052483?s=40&v=4" width="50"> [Sanju2](https://github.com/sanju2)
+
+> <img src="https://avatars.githubusercontent.com/u/57205074?s=40&v=4" width="50">[Daksh Lakhotiya](https://github.com/daksh890)
+
+> <img src="https://avatars.githubusercontent.com/%3Cankitkumar5358%3E" width="50">[Ankit Kumar](https://github.com/ankitkumar5358)
