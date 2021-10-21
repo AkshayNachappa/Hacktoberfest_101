@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+}
+.Hel
+{
+  background: url(ak.jpg);
+  background-size: cover;
+  width: 1233px;
+  height:580px;
+  
+
+
+  
+}
+.login-form
+{
+  padding:15px;
+  margin:auto;
+  margin-top: 20px;
+  padding-top: 20px;
+  height:100%;
+  border: 0pt;
+  align-content: center;
+  border-style: solid;
+  border-width:5px;
+  border-color:grey;
+}
+
+
+
+.App-header {
+ 
+  background: url(ak.jpg);
+background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+.move{
+  margin-left: 10px;
+    width:1000px;
+color: #fff;
+margin-top: 175px;
+
+left: 15%;
+position: absolute;
+font-size: 35px;
+font-family: Times-roman;
+}
+.login-form
+{
+
+  padding:15px;
+  margin:auto;
+  margin-top: 20px;
+  padding-top: 20px;
+  height:100%;
+  border: 0pt;
+  align-content: center;
+  border-style: solid;
+  border-width:5px;
+  border-color:grey;
+}
+
+
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+

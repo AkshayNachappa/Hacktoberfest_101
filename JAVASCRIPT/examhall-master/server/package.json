@@ -1,0 +1,19 @@
+{
+  "name": "user-manager",
+  "version": "1.0.0",
+  "description": "A restful API for a user management system",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Tyler Potts <hello@tylerpotts.co.uk>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.5.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
