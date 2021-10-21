@@ -75,7 +75,5 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src = "https://avatars.githubusercontent.com/u/61052483?s=40&v=4" width="50"> [Sanju2](https://github.com/sanju2)
 
-
-
-
+> <img src="https://avatars.githubusercontent.com/u/57205074?s=40&v=4" width="50">[Daksh Lakhotiya](https://github.com/daksh890)
 
