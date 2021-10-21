@@ -23,7 +23,7 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src="https://avatars.githubusercontent.com/u/66819169?v=4" width="50"> [Sriharshitha Deepala](https://github.com/Sriharshitha842)
 
-> <img src="https://avatars.githubusercontent.com/u/81933624?v=4" width="50"> [Akshay Nachappa](https://github.com/da-r-k)
+> <img src="https://avatars.githubusercontent.com/u/81933624?v=4" width="50"> [Soumyadwip Chanda](https://github.com/da-r-k)
 
 > <img src="https://avatars.githubusercontent.com/u/38998978?v=4" width="50"> [Samodara](https://github.com/saamodra)
 
