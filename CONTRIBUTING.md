@@ -23,6 +23,8 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src="https://avatars.githubusercontent.com/u/66819169?v=4" width="50"> [Sriharshitha Deepala](https://github.com/Sriharshitha842)
 
+> <img src="https://avatars.githubusercontent.com/u/81933624?v=4" width="50"> [Soumyadwip Chanda](https://github.com/da-r-k)
+
 > <img src="https://avatars.githubusercontent.com/u/38998978?v=4" width="50"> [Samodara](https://github.com/saamodra)
 
 > <img src="https://avatars.githubusercontent.com/u/47355913?v=4" width="50"> [Manu M B](https://github.com/mbmanu)
@@ -38,6 +40,7 @@ These are the listing of individuals to this project **who've succesfully contri
 > <img src="https://avatars.githubusercontent.com/u/42502005?v=4" width="50"> [Azim Pathan](https://github.com/AzimPathan)
 
 > <img src="https://avatars.githubusercontent.com/u/73700330?v=4" width="50"> [Aayushmaan Rawat](https://github.com/Aayushmaan-Rawat)
+> <img src="https://avatars.githubusercontent.com/u/76642252?v=4" width="50"> [Vidhya Varshany](https://github.com/VidhyaVarshanyJS)
 
 > <img src="https://avatars.githubusercontent.com/u/46783195?v=4" width="50"> [Devanshu Vashishtha](https://github.com/web-codegrammer)
 
@@ -82,3 +85,5 @@ These are the listing of individuals to this project **who've succesfully contri
 > <img src="https://avatars.githubusercontent.com/u/57205074?s=40&v=4" width="50">[Daksh Lakhotiya](https://github.com/daksh890)
 
 > <img src="https://avatars.githubusercontent.com/%3Cankitkumar5358%3E" width="50">[Ankit Kumar](https://github.com/ankitkumar5358)
+
+> <img src="https://avatars.githubusercontent.com/u/85459232?s=400u=7b3f876f121857b9737d01642253a4f02298d321&v=4" width="50">[Bhoomika Gothwal](https://github.com/OREO1210)
