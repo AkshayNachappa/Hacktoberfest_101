@@ -16,6 +16,7 @@ These are the listing of individuals to this project **who've succesfully contri
 > #### NOTE: Before making PR ensure to test if the whole lot is adequate in preview section
 
 # Main Contributors
+> <img src="https://avatars.githubusercontent.com/u/72331440?v=4" width="50"> [Deepak Chaurasiya](https://github.com/deepak252)
 
 > <img src="https://avatars.githubusercontent.com/u/46316452?v=4" width="50"> [Akshay Nachappa](https://github.com/AkshayNachappa)
 
