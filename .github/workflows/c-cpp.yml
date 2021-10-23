@@ -13,10 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: autoconfig
-      run: autoconf
     - name: configure
-      run: ./configure
+      run: ./github/workflows/config
     - name: make
       run: make
     - name: make check
