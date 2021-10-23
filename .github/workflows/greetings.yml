@@ -6,7 +6,9 @@ jobs:
   greeting:
     runs-on: ubuntu-latest
     permissions:
-      issues: write
+  # All other permissions are set to none
+      checks: write
+      contents: read
       pull-requests: write
     steps:
     - uses: actions/first-interaction@v1
