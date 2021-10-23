@@ -65,16 +65,3 @@ int main()
 		cout << (count-1) * min(x, y) + y;
 	}
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
