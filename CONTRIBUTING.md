@@ -89,3 +89,6 @@ These are the listing of individuals to this project **who've succesfully contri
 > <img src="https://avatars.githubusercontent.com/u/85459232?s=400u=7b3f876f121857b9737d01642253a4f02298d321&v=4" width="50">[Bhoomika Gothwal](https://github.com/OREO1210)
 
 > <img src="https://avatars.githubusercontent.com/u/72681962?v=4" width="50">[Apurv Gangavane](https://github.com/ApurvGangavane)
+
+> <img src="https://avatars.githubusercontent.com/u/83395224?s=400&v=4" width="50"> [Anusha Dokka](https://github.com/anushad-13)
+
