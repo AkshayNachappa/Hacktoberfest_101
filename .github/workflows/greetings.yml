@@ -11,6 +11,6 @@ jobs:
     steps:
     - uses: actions/first-interaction@v1
       with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        repo-token: ${{ secrets.PAT }}
         issue-message: 'This is your first issue. The issue will be reviewed within 18hrs :D'
         pr-message: 'Hey there First-time contributor! Best of luck on the Hacktoberfest. Your code will be reviewed within 18hrs. Don"t forget to Star the Repository :D'
