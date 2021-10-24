@@ -1,70 +1,86 @@
-#include<iostream>
+#include <iostream>
+#include <climits>
+
 using namespace std;
 
-void binSearch(int arr[],int N,int x)
-{
-    int i;
-    int left = 0;
-    int right = N-1;
-    int mid = (N-1)/2;
-    while(left<right)
+
+
+int binary_search (int arr[], int n, int key) // input array and no of elements
     {
-        if(x==arr[mid])
-        {
-            cout<<"The number "<<x<<" found at "<<mid+1<<endl;
-            break;
-        }
-        else if(x<arr[mid])
+        
+        int start_point = 0;
+        int end_point = n-1;
+        
+        while (start_point <= end_point)
         {
             
-            right =  mid;
-            left =0;
-            mid = (left + right)/2;            
-
-        }
-        else
-        {
-            right =  (N-1);
-            left =mid;
-            mid = (left + right)/2; 
-        }
-    }
-
-}
-int* sort(int arr[],int N)
-{
-    for(int i=0;i<N;i++)
-    {
-        for(int j=i+1;j<N;j++)
-        {
-            if(arr[i]>arr[j])
+            int mid_point = (start_point + end_point) / 2;
+            
+            if (arr[mid_point] == key)
             {
-                int temp = arr[i];
-                arr[i] = arr[j];
-                arr[j] = temp;
+                
+                return mid_point;
+                
             }
+            
+            else if (arr[mid_point] > key)
+            
+            {
+                
+                end_point = mid_point - 1;
+                
+            }
+            
+            else
+            
+            {
+                
+                start_point = mid_point + 1;
+                
+            }
+            
+            
+            
         }
+        
+        return -1;     // means not present
+        
     }
-    return arr;
-}
+
+
+
+
+
 int main()
 {
-    int N,x;
-    cout <<"Enter the size of the array and the no. to be searched \n";
-    cin>>N>>x;
-    int *arr = new int[N];
-    cout<<"Enter the array \n";
-    for(int i=0;i<N;i++)
+    
+    
+    // binary search
+    // efficient way in searching key is present or not
+    
+    int num, key;
+    
+    cout << "Enter the number of elements in array: ";
+    cin >> num;    // taking the no of elements in array
+    
+    int a[1000]; // max constraint size
+    
+     // taking input from user the elements
+    for (int i = 0; i < num; i++)
     {
-        cin>>arr[i];
+        
+        cin >> a[i];
+        
     }
-    int* ptr = sort(arr,N);
-    cout<<"Sorted array: ";
-    for(int i=0;i<N;i++)
-    {
-        cout<<ptr[i]<<" ";
-    }
-    cout<<endl;
-    binSearch(ptr,N,x);
+    
+    cout << "Enter the element we want to find: " ;
+    cin >> key;
+    
+    // calling out the binary function
+    
+    cout << binary_search (a, num, key) <<endl;
+    
+    
+    
     return 0;
 }
