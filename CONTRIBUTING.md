@@ -16,7 +16,6 @@ These are the listing of individuals to this project **who've succesfully contri
 > #### NOTE: Before making PR ensure to test if the whole lot is adequate in preview section
 
 # Main Contributors
-> <img src="https://avatars.githubusercontent.com/u/72331440?v=4" width="50"> [Deepak Chaurasiya](https://github.com/deepak252)
 
 > <img src="https://avatars.githubusercontent.com/u/46316452?v=4" width="50"> [Akshay Nachappa](https://github.com/AkshayNachappa)
 
@@ -94,4 +93,6 @@ These are the listing of individuals to this project **who've succesfully contri
 > <img src="https://avatars.githubusercontent.com/u/83395224?s=400&v=4" width="50"> [Anusha Dokka](https://github.com/anushad-13)
 
 > <img src="https://avatars.githubusercontent.com/M4D-Skillz-777?s=400&v=4" width="50"> [Adwaiy Randale](https://github.com/M4D-Skillz-777)
+
+> <img src="https://avatars.githubusercontent.com/u/72331440?v=4" width="50"> [Deepak Chaurasiya](https://github.com/deepak252)
 
