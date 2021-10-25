@@ -94,3 +94,5 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src="https://avatars.githubusercontent.com/M4D-Skillz-777?s=400&v=4" width="50"> [Adwaiy Randale](https://github.com/M4D-Skillz-777)
 
+> <img src="https://avatars.githubusercontent.com/u/72331440?v=4" width="50"> [Deepak Chaurasiya](https://github.com/deepak252)
+
