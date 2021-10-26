@@ -96,3 +96,4 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src="https://avatars.githubusercontent.com/u/72331440?v=4" width="50"> [Deepak Chaurasiya](https://github.com/deepak252)
 
+> <img src="https://avatars.githubusercontent.com/u/33249669?v=4" width="50"> [Muhammed Nihad](https://github.com/MuhammedNihad)
