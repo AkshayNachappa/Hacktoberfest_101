@@ -41,8 +41,6 @@ These are the listing of individuals to this project **who've succesfully contri
 
 > <img src="https://avatars.githubusercontent.com/u/73700330?v=4" width="50"> [Aayushmaan Rawat](https://github.com/Aayushmaan-Rawat)
 
-> <img src="https://avatars.githubusercontent.com/u/76642252?v=4" width="50"> [Vidhya Varshany](https://github.com/VidhyaVarshanyJS)
-
 > <img src="https://avatars.githubusercontent.com/u/46783195?v=4" width="50"> [Devanshu Vashishtha](https://github.com/web-codegrammer)
 
 > <img src="https://avatars.githubusercontent.com/u/39965391?s=40&v=4" width="50"> [VIBHUTI SINGH](https://github.com/VibhuRajput)
@@ -102,3 +100,6 @@ These are the listing of individuals to this project **who've succesfully contri
 > <img src="https://avatars.githubusercontent.com/u/54777542?v=4" width="50"> [Sanjib Sen](https://github.com/sanjib-sen)
 
 > <img src="https://avatars.githubusercontent.com/u/20567256?v=4" width="50"> [Will Kemp](https://github.com/WKemp)
+
+> <img src="https://avatars.githubusercontent.com/u/11727491?s=96&v=4" width="50"> [Muhammad Saeed](https://github.com/muhammadcaeed)
+
