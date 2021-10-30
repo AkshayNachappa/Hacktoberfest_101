@@ -1,4 +1,9 @@
 <h1 align="center">Hacktoberfest 2021</h1>
+   
+<h3 align="center">
+    
+ Unfortunately this repository has been excluded from hacktoberfest. Please refer to [#255](https://github.com/AkshayNachappa/Hacktoberfest_2021/issues/255)
+</h3>
 <p align="center">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/AkshayNachappa/Hacktoberfest_2021?color=yellow">
     <img alt="GitHub open pr" src="https://img.shields.io/github/issues-pr/AkshayNachappa/hacktoberfest_2021?color=blue">
