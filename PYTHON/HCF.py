@@ -1,3 +1,4 @@
+#this is a python program.
 def hcf(a,b):
   if a>b:
     smaller =b
